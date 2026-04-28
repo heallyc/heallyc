@@ -1,4 +1,13 @@
-## Hi there 👋
+electrical engineering student focused on power systems and signal processing.  
+  
+**current interests:**
+- filters & system behavior
+- o-scopes & signal analysis
+
+**what i do here:**
+- circuit analysis
+- signal transformation
+- embedded C + simulations
 
 <!--
 **heallyc/heallyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
