@@ -7,7 +7,7 @@ electrical engineering student focused on power systems and signal processing.
 **what i do here:**
 - circuit analysis
 - signal transformation
-- embedded C + simulations
+- embedded C++ simulations
 
 <!--[![My GitHub Stats](https://github-readme-stats-heally.vercel.app/api?username=heallyc&show_icons=true&hide_border=true&bg_color=FFF5F7&title_color=C97B84&text_color=6B4F4F&icon_color=E8A0A8&rank_icon=github&include_all_commits=true&count_private=true )](https://github.com/heallyc)
 
