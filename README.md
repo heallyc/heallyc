@@ -2,7 +2,7 @@ electrical engineering student focused on power systems and signal processing.
   
 **current interests:**
 - filters & system behavior
-- o-scopes & signal analysis
+
 
 **what i do here:**
 - circuit analysis
