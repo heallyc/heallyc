@@ -1,4 +1,4 @@
-electrical engineering student focused on power systems and signal processing.  
+electrical engineering student focused on power systems and signal processing
   
 **current interests:**
 - filters & system behavior
